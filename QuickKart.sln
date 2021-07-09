@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickKartTestApp", "QuickKartTestApp\QuickKartTestApp.csproj", "{60419DE5-3677-4C9F-BB8F-28E85FB895D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickKart", "QuickKart\QuickKart.csproj", "{00652B23-ADE0-4B79-A687-3C41B51812D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickKartTest", "QuickKartTest\QuickKartTest.csproj", "{D5C6564C-BE18-4CB0-91D1-A1D162E59891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60419DE5-3677-4C9F-BB8F-28E85FB895D5}.Debug|x86.ActiveCfg = Debug|x86
+		{60419DE5-3677-4C9F-BB8F-28E85FB895D5}.Debug|x86.Build.0 = Debug|x86
+		{60419DE5-3677-4C9F-BB8F-28E85FB895D5}.Release|x86.ActiveCfg = Release|x86
+		{60419DE5-3677-4C9F-BB8F-28E85FB895D5}.Release|x86.Build.0 = Release|x86
+		{00652B23-ADE0-4B79-A687-3C41B51812D9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{00652B23-ADE0-4B79-A687-3C41B51812D9}.Debug|x86.Build.0 = Debug|Any CPU
+		{00652B23-ADE0-4B79-A687-3C41B51812D9}.Release|x86.ActiveCfg = Release|Any CPU
+		{00652B23-ADE0-4B79-A687-3C41B51812D9}.Release|x86.Build.0 = Release|Any CPU
+		{D5C6564C-BE18-4CB0-91D1-A1D162E59891}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D5C6564C-BE18-4CB0-91D1-A1D162E59891}.Debug|x86.Build.0 = Debug|Any CPU
+		{D5C6564C-BE18-4CB0-91D1-A1D162E59891}.Release|x86.ActiveCfg = Release|Any CPU
+		{D5C6564C-BE18-4CB0-91D1-A1D162E59891}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

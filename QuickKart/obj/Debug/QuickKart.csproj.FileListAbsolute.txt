@@ -1,0 +1,6 @@
+/mnt/Storage/Projects/CSharp/QuickKart/QuickKart/bin/Debug/QuickKart.dll
+/mnt/Storage/Projects/CSharp/QuickKart/QuickKart/bin/Debug/QuickKart.pdb
+/mnt/Storage/Projects/CSharp/QuickKart/QuickKart/obj/Debug/QuickKart.csproj.CoreCompileInputs.cache
+/mnt/Storage/Projects/CSharp/QuickKart/QuickKart/obj/Debug/QuickKart.dll
+/mnt/Storage/Projects/CSharp/QuickKart/QuickKart/obj/Debug/QuickKart.pdb
+/mnt/Storage/Projects/CSharp/QuickKart/QuickKart/obj/Debug/QuickKart.csprojAssemblyReference.cache

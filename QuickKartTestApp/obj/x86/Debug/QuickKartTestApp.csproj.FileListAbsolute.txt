@@ -1,0 +1,9 @@
+/mnt/Storage/Projects/CSharp/QuickKart/QuickKartTestApp/obj/x86/Debug/QuickKartTestApp.csproj.CoreCompileInputs.cache
+/mnt/Storage/Projects/CSharp/QuickKart/QuickKartTestApp/obj/x86/Debug/QuickKartTestApp.csprojAssemblyReference.cache
+/mnt/Storage/Projects/CSharp/QuickKart/QuickKartTestApp/bin/Debug/QuickKartTestApp.exe
+/mnt/Storage/Projects/CSharp/QuickKart/QuickKartTestApp/bin/Debug/QuickKartTestApp.pdb
+/mnt/Storage/Projects/CSharp/QuickKart/QuickKartTestApp/bin/Debug/QuickKart.dll
+/mnt/Storage/Projects/CSharp/QuickKart/QuickKartTestApp/bin/Debug/QuickKart.pdb
+/mnt/Storage/Projects/CSharp/QuickKart/QuickKartTestApp/obj/x86/Debug/QuickKartTestApp.csproj.CopyComplete
+/mnt/Storage/Projects/CSharp/QuickKart/QuickKartTestApp/obj/x86/Debug/QuickKartTestApp.exe
+/mnt/Storage/Projects/CSharp/QuickKart/QuickKartTestApp/obj/x86/Debug/QuickKartTestApp.pdb
